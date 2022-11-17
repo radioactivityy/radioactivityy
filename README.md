@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/MEr-JVXz_9QAAAAM/it-karak-itkaraktus.gif" align="center" style="width: 100%" />
+<img src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -68,15 +68,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCfiNFvBFXKoMnlAdkMhP_gQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
@@ -88,6 +79,9 @@
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gulcindemirkiran/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/radioactivityy" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -100,18 +94,11 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gyiu7sbiil4iwxcryup2oyhvcu&cover_image=true&theme=default&show_offline=false&background_color=2d7728&bar_color=000000&bar_color_cover=true" /></div>  
 
 <br/>  
 
+![Profile views counter](https://komarev.com/ghpvc/?username=radioactivityy&&style=flat-square)  
   
 
 <br/>  
