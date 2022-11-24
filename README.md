@@ -3,10 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gabby, a self-taught developer. 🚀</div>  
-  
-
-- 🔭 I’m currently working on (https://github.com/radioactivityy)  
+### <div align="center">I'm Gabby, a self-taught programmer. 🚀</div>  
   
 
 - 🔎 I’m currently learning Machine Learning and Data Visulation   
