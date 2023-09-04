@@ -6,7 +6,7 @@
 ### <div align="center">I'm Gabby, a self-taught programmer. 🚀</div>  
   
 
-- 🔎 I’m currently learning Machine Learning and Data Visulation   
+- 🔎 I’m currently learning Machine Learning and Data Visualization   
   
 
 <br/>  
