@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ascii.co.uk/animated-art/sky-pastel-animated-ascii-art-by-xponentialdesign.html" align="center" style="width: 50%" />
+<img src="https://ascii.co.uk/animated-art/sky-pastel-animated-ascii-art-by-xponentialdesign.html" align="center" alt="Alien"  />
 </div>  
 <h1 align="center">Hi 👋, I'm Gabby (Gulcin)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radioactivityy&label=Profile%20views&color=0e75b6&style=flat" alt="radioactivityy" /> </p>
