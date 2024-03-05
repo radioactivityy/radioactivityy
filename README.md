@@ -1,14 +1,3 @@
-<div align="center">
-  <pre>
-                       ,;:;;,
-                       ;;;;;
-               .=',    ;:;;:,
-              /_', "=. ';:;:;
-              @=:__,  \,;:;:'
-                _(\.=  ;:;;'
-               `"_(  _/="
-  </pre>
-</div>
 
 <h1 align="center">Hi 👋, I'm Gabby (Gulcin)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radioactivityy&label=Profile%20views&color=0e75b6&style=flat" alt="radioactivityy" /> </p>
