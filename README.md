@@ -84,5 +84,5 @@
 </p>
 
 <p>
-  <i>These stats are based on my public repos — but I code mostly in Python, JavaScript and PHP these days!</i>
+  <i>These stats are based on my public repositories — but I code mostly in Python, JavaScript and PHP these days!</i>
 </p>
